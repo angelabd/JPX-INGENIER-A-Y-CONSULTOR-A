@@ -1,0 +1,6 @@
+{
+  "name": "JPX Ingeniería & Consultoría",
+  "description": "Soluciones técnicas para una gestión responsable de la seguridad, salud ocupacional, higiene industrial, ergonomía y medio ambiente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
